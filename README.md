@@ -1,5 +1,7 @@
 # README
 
+Fait avec Lionel Renard, MCCCCCCCCCCCCC!, Charles Belpois et Geoffroy Viscquert.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
